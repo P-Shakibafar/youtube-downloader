@@ -24,6 +24,7 @@ function createWindow() {
             nodeIntegration: true
         }
     })
+    win.setOpacity(0.98)
 
     if (process.env.WEBPACK_DEV_SERVER_URL) {
         // Load the url of the dev server if in development mode

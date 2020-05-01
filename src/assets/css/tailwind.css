@@ -1,3 +1,7 @@
 @tailwind base;
+.clickable {
+    -webkit-app-region: no-drag;
+}
+
 @tailwind components;
 @tailwind utilities;
