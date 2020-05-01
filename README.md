@@ -20,7 +20,7 @@ yarn electron:serve
 yarn build
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production (Electron)
 ```
 yarn electron:build
 ```
