@@ -1,0 +1,19 @@
+{
+  "name": "youtube-downloader",
+  "version": "0.1.0",
+  "description": "this is youtube downloader",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P-Shakibafar/youtube-downloader.git"
+  },
+  "author": "P-Shakibafar & madixiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P-Shakibafar/youtube-downloader/issues"
+  },
+  "homepage": "https://github.com/P-Shakibafar/youtube-downloader#readme"
+}
