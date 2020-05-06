@@ -6,6 +6,7 @@
     </div>-->
     <Sidebar />
     <router-view />
+    <portal-target name="modals"></portal-target>
   </div>
 </template>
 
